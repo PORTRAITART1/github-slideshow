@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+l'imagination et mère du savoir
 Use the left arrow to go back!
